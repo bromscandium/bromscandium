@@ -10,7 +10,7 @@
 
 - I enjoy creating modern, accessible, and user-friendly web applications.
 - Constantly learning, improving, and reflecting on my work.
-- Participated in international hackathons 🇩🇰 🇨🇭, collaborating with diverse teams on real-world challenges.
+- Participated in international hackathons 🇩🇰 🇨🇭 🇸🇰 🇫🇮, collaborating with diverse teams on real-world challenges.
 - I love blending creativity with tech — I play guitar and occasionally produce music for my projects.
 
 ---

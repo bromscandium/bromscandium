@@ -18,7 +18,7 @@
 ### 🔧 My Tech Toolbox:
 
 - **Languages:** JavaScript, Python, C, Java, Rust, Typescript
-- **Frameworks & Tools:** React, Angular, Spring, Node.js, PostgreSQL, Git, SCSS, SASS
+- **Frameworks & Tools:** React, Angular, Spring, Node.js, PostgreSQL, Git, SASS
 
 ---
 

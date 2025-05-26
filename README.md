@@ -29,11 +29,4 @@
 
 ---
 
-### 📫 Let’s collaborate:
-If you’d like to build something together or just connect — feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yaroslav-yeromenko/)
-
----
-
 *"Live, take risks, and never give up."*

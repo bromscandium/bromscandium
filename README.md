@@ -3,6 +3,7 @@
 - **Computer Science student** @ Technical University of Košice (TUKE)  
 - **IT Specialist** @ Promote Ukraine | NGO & social impact projects  
 - Passionate about **web technologies**, **frontend development**, and building meaningful products.
+- Currently works as freelancer, but I do not mind about any good offer
 
 ---
 
@@ -17,8 +18,8 @@
 
 ### 🔧 My Tech Toolbox:
 
-- **Languages:** JavaScript, Python, C, Java, Rust, Typescript
-- **Frameworks & Tools:** React, Angular, Spring, Node.js, PostgreSQL, Git, SASS
+- **Languages:** JavaScript, Python, C, Java, Typescript
+- **Frameworks & Tools:** React, Angular, Spring, Node.js, PostgreSQL, Git, SASS, Tailwind, SEO
 
 ---
 

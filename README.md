@@ -3,7 +3,7 @@
 - **Computer Science student** @ Technical University of Košice (TUKE)  
 - **IT Specialist** @ Promote Ukraine | NGO & social impact projects  
 - Passionate about **web technologies**, **frontend development**, and building meaningful products.
-- Currently works as freelancer, but I do not mind about any good offer
+- Currently work as freelancer, but I do not mind about any good offer
 
 ---
 

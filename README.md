@@ -1,7 +1,7 @@
 # Hello!
 > I want to be honest with you, with user who somehow has found out about my GH.
 > 
-> It is my personal page, not formal CV for recruiters or big corporates. You won't find literally any important information about me here, so...
+> It is my personal page, not formal CV for recruiters or big corporates. You won't find literally any important information about me here (except my experience and project), so...
 > 
 > Let's rather discuss together about collaboration, if you are interested in me and my skills, but feel free to explore my GitHub and my experience.
 ---

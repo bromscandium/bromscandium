@@ -10,6 +10,8 @@
 ---
 > Yes, I am pretty straightforward, but really kind too >.<
 ---
+> Regarding my profile picture; yes, that's me, but idk which picture to put there, because it's really hard to find one when my haircut is looking good lol
+---
 > There is my main stack, by the way. However, I am ready to learn something new!
 > 
 >![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)

@@ -12,11 +12,13 @@
 ---
 > Regarding my profile picture; yes, that's me, but idk which picture to put there, because it's really hard to find one when my haircut is looking good lol
 ---
+> And yeah, that's me on a profile pic btw:)
+---
 > There is my main stack, by the way. However, I am ready to learn something new!
 > 
 >![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ---
